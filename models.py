@@ -1,6 +1,3 @@
-from itertools import count
-
-
 class Product:
     """
     Класс продукта
